@@ -1,0 +1,3 @@
+[submodule "polyhedral_common"]
+	path = polyhedral_common
+	url = https://github.com/MathieuDutSik/polyhedral_common
